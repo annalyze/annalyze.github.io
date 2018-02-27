@@ -4,11 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Data Scientist, with a mathematician's heart.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Data Science is the ideal synthesis of my academic background in mathematics and applied mathematics and my experience as an analyst for a major retailer. GA's professional and well-balanced approach to Data Science provided the ideal opportunity to hone my programming skills in Python to explore a wealth of machine learning topics, while staying grounded in communicating insights as actionable steps.
+
+
 
 ### Contact me
 
