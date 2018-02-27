@@ -2,6 +2,7 @@
 layout: post
 title: Exploring Water Quality in New York Harbor
 ---
+<iframe src="/images/2016.html" width="1000" height="800"> </iframe>
 This map will allow you to explore the water quality and combined sewer overflow in any NYC neighborhood.
 The red circles surround the Harbor Water Testing sites and are sized by count of fecal coliform at that location.
 The brown circles surround the combined sewer outfall location and are sized by the millions of gallons released at that location.
@@ -10,7 +11,6 @@ The blue markers, are the location of a sewage water treatment plants.
 
 All data is from the NYC DEP for 2016.
 
-<iframe src="/images/2016.html" width="1000" height="800"> </iframe>
 <!-- Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
