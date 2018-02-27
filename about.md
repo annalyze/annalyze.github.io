@@ -8,7 +8,7 @@ Data Scientist, with a mathematician's heart.
 
 ### More Information
 
-Data Science is the ideal synthesis of my academic background in mathematics and applied mathematics and my experience as an analyst for a major retailer. GA's professional and well-balanced approach to Data Science provided the ideal opportunity to hone my programming skills in Python to explore a wealth of machine learning topics, while staying grounded in communicating insights as actionable steps.
+Former data leader at large retail corporation with a passion for what the mind can discover through mathematics. The world is flooded with information, I like puzzling it together to find an optimal path to success. I have an analytical bent driven by creativity and resourcefulness. I like wielding Python like a sword through the tangled forest of data.
 
 
 

@@ -10,7 +10,7 @@ The blue markers, are the location of a sewage water treatment plants.
 
 All data is from the NYC DEP for 2016.
 
-<iframe src="/images/2016.html" width="1000" height="1000"> </iframe>
+<iframe src="/images/2016.html" width="1000" height="800"> </iframe>
 <!-- Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
