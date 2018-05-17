@@ -8,9 +8,9 @@ The red circles surround the Harbor Water Testing sites and are sized by count o
 The brown circles surround the combined sewer outfall location and are sized by the millions of gallons released at that location.
 The blue markers, are the location of a sewage water treatment plants.
 <!-- In addition, each CSO drainage area is outlined to show which neighborhood drains into a given CSO. -->
-
-All data is from the NYC DEP for 2016.
 <iframe src="/images/2016.html" width="1000" height="800"> </iframe>
+All data is from the NYC DEP for 2016.
+
 <!-- Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
